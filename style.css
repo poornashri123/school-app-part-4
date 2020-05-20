@@ -1,0 +1,41 @@
+body{
+    border: dotted;
+    background-color: rgb(81, 206, 81) ;
+}
+img{
+    border: dotted;
+    background-color: darkslategray ;
+}
+h2{
+    background-color: darkslategray;
+}
+h3{
+    background-color: darkslategray;
+}
+h4{
+    background-color: darkslategray;
+}
+/* adding padding,margin */
+.item{
+    padding: 5ch;
+    margin: 10vmin;
+    
+    
+}
+
+.item2{
+    position: relative;
+}
+/* adding hover */
+h1:hover{
+    background-color: deepskyblue;
+}
+h2:hover{
+    background-color: deepskyblue;
+}
+h3:hover{
+    background-color: deepskyblue;
+}
+h4:hover{
+    background-color: deepskyblue;
+}
